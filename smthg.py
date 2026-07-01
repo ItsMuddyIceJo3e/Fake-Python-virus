@@ -76,8 +76,12 @@ message = "Your files have been encrypted!, put in the correct key to decrypt th
 print(message)
 
 key = random.randint(1, 1000)
-
-text = input("Please enter the key to decrypt your files: ")
+print(f"Simulation cheat: The key is {key}")  # print the key to the console for testing purposes
+try:
+    text = int(input("Please enter the key to decrypt your files: "))
+except ValueError:
+    print("Invalid input. Please enter a valid integer.")
+    exit()
 
 typed_user = input("Please enter your system username: ")
 
