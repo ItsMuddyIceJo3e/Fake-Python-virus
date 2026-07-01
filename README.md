@@ -1,2 +1,3 @@
 # Fake-Python-virus
-a python virus i made (educational purposes only)
+DISLCAIMER: THIS ISNT REAL MALWARE SO DONT WORRY ABOUT YOUR PC IT IS JUST SIMULATING REAL MALWARE
+Credits to StamBlyat(DeviantArt) for the trollface
