@@ -38,6 +38,7 @@ ascii_art = r"""
                                                    .-=@@@@@@@@@@@@@@%-          
                                  
                                                                               """
+print(ascii)
 
 
 import getpass
