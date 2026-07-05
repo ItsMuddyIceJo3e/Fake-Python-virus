@@ -5,8 +5,9 @@ I made this as my first python script btw.
 - For testing purposes only, there is a simulation cheat that tells you the code.
 - It currently does not lock into fullscreen.
 
-Credits to StamBlyat (on DeviantArt) for the trollface
-Google Drive Link: https://drive.google.com/file/d/1wBlngv1hviIgv_Wfkk1H9Re9N406QmeH/view
+Credits to StamBlyat (on DeviantArt) for the trollface.
+Google Drive Link: https://drive.google.com/file/d/1wBlngv1hviIgv_Wfkk1H9Re9N406QmeH/view 
+
 Thats all for now, bye!
 
 ItsMuddyIceJo3e (endusxray)
